@@ -3941,5 +3941,14 @@ body {
   transition: 0.7s;
   cursor: pointer;
 }
+.block-about {
+  text-align: center;
+  font-weight: 900;
+  color: #4e4e4e;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: 48px;
+  font-family: Raleway, sans-serif;
+}
 
  /*# sourceMappingURL=master.css.map */
